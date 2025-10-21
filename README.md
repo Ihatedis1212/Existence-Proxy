@@ -1,2 +1,3 @@
 <h1>Edgewood Proxy</h1>
-<p>Proxy based on scramjet.</p>
+A proxy based on scramjet.
+tbh idk how else to deploy just use a codespace and then copy paste this into terminal pnpm install && pnpm start
